@@ -1,6 +1,6 @@
 
 <h1 align="center">Discord Token Grabber</h1>
-First of all I would like to give credit to Tex0432 the Programmer behind the original program, he deserves the credit and initial hard work :)
+First of all I would like to give credit to Tex0x4E2 the Programmer behind the original program, he deserves the credit and initial hard work :)
 
 # Features
 
