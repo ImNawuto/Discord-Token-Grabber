@@ -1,6 +1,7 @@
 
 <h1 align="center">Discord Token Grabber</h1>
 First of all I would like to give credit to Tex0432 the Programmer behind the original program, he deserves the credit and initial hard work :)
+
 # Features
 
 - [x] *Grabs all the computer information such as IP, CPU Architecture, RAM, Time, Operating System, and region.*
